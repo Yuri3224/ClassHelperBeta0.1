@@ -10,7 +10,7 @@ sendButton.addEventListener("click", function() {
   SendQuestion();
 });
 
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "ColoqueSuaChaviApiAqui";
 
 function SendQuestion() {
   var sQuestion = inputQuestion.value;
